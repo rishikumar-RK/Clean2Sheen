@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152049197403",
+    "firebase_url": "https://clean2sheen-655f5.firebaseio.com",
+    "project_id": "clean2sheen-655f5",
+    "storage_bucket": "clean2sheen-655f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152049197403:android:aef73354b1f6f83bbcba7e",
+        "android_client_info": {
+          "package_name": "com.example.rishi.clean2sheen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152049197403-dq1ti56osequk4k35p7ntqek6bkigbh7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rishi.clean2sheen",
+            "certificate_hash": "0ccced76a32c57a8f21b51071b0306b391493f9b"
+          }
+        },
+        {
+          "client_id": "152049197403-hludvialij9svgedbsrp95k9ov5ao5pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfj-0wDdnDLZsdY4DzDKbut59XG1Yjm3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152049197403-hludvialij9svgedbsrp95k9ov5ao5pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
